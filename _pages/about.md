@@ -19,7 +19,7 @@ redirect_from:
 
 Hi👋, I'm Shiyu Wang, currently an undergraduate student majoring in Computer Science at ZJGSU.
 
-My research interest includes My research interests include Computer Vision and Deepfake Detection.. 
+My research interest includes My research interests include Computer Vision and Deepfake Detection.
 
 
 # 🔥 News
@@ -43,10 +43,13 @@ My research interest includes My research interests include Computer Vision and 
 </div>
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards
+- *2024.08* National Scholarship for Undergraduates 
+- *2023.08* Zhejiang Provincial Government Scholarship
+<!-- - *20*   -->
 
+
+<!-- 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
