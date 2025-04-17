@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/MSB_CLIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [多元软混合样本驱动的图文对齐人脸伪造检测方法](http://cjig.ijournals.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202405050000002&journal_id=jig)
