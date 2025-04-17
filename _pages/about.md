@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [多元软混合样本驱动的图文对齐人脸伪造检测方法](http://cjig.ijournals.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202405050000002&journal_id=jig)
 
-**WANG Shiyu**, Feng Caibo, LIU CHUN Xiao, JIN Yisheng
+**Shiyu Wang**, Caibo Feng, Chunxiao Liu, Yisheng Jin 
 
 [**PDF**](http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig)
 
