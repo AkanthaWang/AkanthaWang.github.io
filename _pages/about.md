@@ -23,8 +23,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.08*: &nbsp;🎉🎉 One paper for 多元软混合样本驱动的图文对齐人脸伪造检测方法 is accepted by 中国图像图形学报.
+
 
 # 📝 Publications 
 
