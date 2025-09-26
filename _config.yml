@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "AkanthaWang"
-description              : "Undergraduate at ZJGSU"
+description              : "postgraduate student @ ECNU."
 repository               : "AkanthaWang/AkanthaWang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Shiyu Wang"
   avatar           : "images/profile.png"
   bio              : # "Undergraduate at ZJGSU"
-  location         : "Hangzhou, Zhejiang, China"
+  location         : "Shanghai"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"

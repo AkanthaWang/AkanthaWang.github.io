@@ -17,35 +17,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋, I'm Shiyu Wang, currently an undergraduate student majoring in Computer Science at ZJGSU.
 
-My research interest includes My research interests include Computer Vision and Deepfake Detection.
+Hi👋, I'm Shiyu Wang, currently a postgraduate student majoring in Data Science and Engineering at East China Normal University, supervised by Prof. [Yan Wang](https://wangyanckxx.github.io/) (Deep Learning).
+My current research interests primarily focus on:
++ Expression recognition and affective computing, embodied intelligence
++ Deepfake Detection
 
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2024.08*: &nbsp;🎉🎉 One paper for 多元软混合样本驱动的图文对齐人脸伪造检测方法 is accepted by 中国图象图形学报.
+- *2024.08*: &nbsp;🎉🎉 One paper for 多元软混合样本驱动的图文对齐人脸伪造检测方法 is accepted by 《中国图象图形学报》.
 
 
 # 📝 Publications  (🧑‍💻 Equal contribution, 📮 Corresponding author)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国图象图形学报</div><img src='images/MSB_CLIP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[多元软混合样本驱动的图文对齐人脸伪造检测方法](http://cjig.ijournals.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202405050000002&journal_id=jig)
-
-**Shiyu Wang** , Caibo Feng , Chunxiao Liu📮 , Yisheng Jin 
-
-[**PDF**](http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig) / [**Project Page**](https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection) 
-
-</div>
+  <div class='paper-box-text' markdown="1">
+  [多元软混合样本驱动的图文对齐人脸伪造检测方法](http://cjig.ijournals.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202405050000002&journal_id=jig)
+  **Shiyu Wang** , Caibo Feng , Chunxiao Liu📮 , Yisheng Jin 
+  [**PDF**](http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig) / [**Project Page**](https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection) 
+  </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2024.08* National Scholarship for Undergraduates 
-- *2023.08* Zhejiang Provincial Government Scholarship
+- *In 2025* Zhejiang Gongshang University Outstanding Thesis
+- *In 2025* Outstanding Graduate of Zhejiang Province
+- *In 2024* National Scholarship for Undergraduates 
+- *In 2023* Zhejiang Provincial Government Scholarship
 <!-- - *20*   -->
 
 
