@@ -44,7 +44,7 @@ My current research interests primarily focus on:
 </div>
 
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *In 2025* Zhejiang Gongshang University Outstanding Thesis
 - *In 2025* Outstanding Graduate of Zhejiang Province
 - *In 2024* National Scholarship for Undergraduates 
