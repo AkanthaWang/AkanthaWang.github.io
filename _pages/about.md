@@ -17,58 +17,106 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋, I'm Shiyu Wang, currently a postgraduate student majoring in Data Science and Engineering at East China Normal University, supervised by Prof. [Yan Wang](https://wangyanckxx.github.io/) (Deep Learning).
+<div class="home-showcase">
+  <section class="intro-panel">
+    <div class="intro-copy">
+      <p class="intro-kicker">Data Science · Multimodal Learning · Affective Computing</p>
+      <h1 class="intro-title">Shiyu Wang</h1>
+      <p class="intro-description">I am a postgraduate student in Data Science and Engineering at East China Normal University, supervised by Prof. <a href="https://wangyanckxx.github.io/">Yan Wang</a>. My work centers on building reliable multimodal systems for emotion understanding and deepfake detection.</p>
+      <div class="intro-actions">
+        <a class="showcase-button primary" href="#publications">View Publications</a>
+        <a class="showcase-button secondary" href="#education">Education</a>
+      </div>
+    </div>
+    <div class="intro-aside">
+      <div class="focus-card">
+        <p class="focus-card-label">Current Research Focus</p>
+        <div class="tag-list">
+          <span class="tag-chip">Expression Recognition</span>
+          <span class="tag-chip">Affective Computing</span>
+          <span class="tag-chip">Embodied Intelligence</span>
+          <span class="tag-chip">Deepfake Detection</span>
+        </div>
+      </div>
+    </div>
+  </section>
 
-My current research interests primarily focus on:
-- 🎭 Expression recognition and affective computing, embodied intelligence
-- 🔍 Deepfake Detection
+  <section class="showcase-section">
+    <h1 id="news">🔥 News</h1>
+    <ul class="timeline-list">
+      <li>
+        <span class="timeline-date">2024.08</span>
+        <div class="timeline-body">🎉 One paper for <strong>多元软混合样本驱动的图文对齐人脸伪造检测方法</strong> was accepted by <strong>《中国图象图形学报》</strong>.</div>
+      </li>
+    </ul>
+  </section>
 
+  <section class="showcase-section">
+    <h1 id="publications">📝 Publications</h1>
+    <p class="section-intro">Selected work in deepfake detection, affective computing, and multimodal reasoning.</p>
+    <p class="section-note">🧑‍💻 Equal contribution, 📮 Corresponding author</p>
 
-# 🔥 News
-- *2024.08*: &nbsp;🎉🎉 One paper for 多元软混合样本驱动的图文对齐人脸伪造检测方法 is accepted by 《中国图象图形学报》.
+    <div class="paper-box">
+      <div class="paper-box-image">
+        <div class="paper-media">
+          <div class="badge">中国图象图形学报</div>
+          <img src="images/MSB_CLIP.png" alt="Preview image for the multi-soft-blend deepfake detection paper" width="100%">
+        </div>
+      </div>
+      <div class="paper-box-text">
+        <p class="paper-status">Accepted Paper</p>
+        <h2 class="paper-title">多元软混合样本驱动的图文对齐人脸伪造检测方法</h2>
+        <p class="paper-authors"><strong>Shiyu Wang</strong>, Caibo Feng, Chunxiao Liu📮, Yisheng Jin</p>
+        <div class="paper-links">
+          <a class="paper-link" href="http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig">Paper</a>
+          <a class="paper-link" href="https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection">Project Page</a>
+        </div>
+      </div>
+    </div>
 
+    <div class="paper-box">
+      <div class="paper-box-image">
+        <div class="paper-media">
+          <div class="badge">Under Review</div>
+          <img src="images/InsightVQA.png" alt="Preview image for the InsightVQA benchmark project" width="100%">
+        </div>
+      </div>
+      <div class="paper-box-text">
+        <p class="paper-status">Benchmark Paper</p>
+        <h2 class="paper-title">InsightVQA: High-Dimensional Emotion-Cognitive Visual Question Answering Benchmark</h2>
+        <p class="paper-authors"><strong>Shiyu Wang</strong>🧑‍💻, Ziyu Liu🧑‍💻, Chaoyi Yu, Yujie Yin, Zhongqian Mao, Jing Chen, Jiaqi Song, Yunshi Lan, Yan Wang📮</p>
+        <div class="paper-links">
+          <a class="paper-link" href="https://arxiv.org/pdf/2606.02171">Paper</a>
+          <a class="paper-link" href="https://akanthawang.github.io/InsightVQA/">Project Page</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-# 📝 Publications  (🧑‍💻 Equal contribution, 📮 Corresponding author)
+  <div class="detail-grid">
+    <section class="showcase-section compact-section">
+      <h1 id="education">📖 Education</h1>
+      <ul class="timeline-list">
+        <li>
+          <span class="timeline-date">2025.09 - now</span>
+          <div class="timeline-body"><strong>Postgraduate</strong> in Data Science and Engineering, East China Normal University, Shanghai</div>
+        </li>
+        <li>
+          <span class="timeline-date">2021.09 - 2025.06</span>
+          <div class="timeline-body"><strong>Bachelor</strong> in Computer Science and Technology, Zhejiang Gongshang University, Hangzhou</div>
+        </li>
+      </ul>
+    </section>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国图象图形学报</div><img src='images/MSB_CLIP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**多元软混合样本驱动的图文对齐人脸伪造检测方法**
-
-**Shiyu Wang** , Caibo Feng , Chunxiao Liu📮 , Yisheng Jin 
-
-[[**Paper**](http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig)]\| [[**Project Page**](https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection)]
+    <section class="showcase-section compact-section">
+      <h1 id="awards">🎖️ Honors and Awards</h1>
+      <ul class="award-list">
+        <li><span class="award-year">2025</span> Zhejiang Gongshang University Outstanding Thesis</li>
+        <li><span class="award-year">2025</span> Outstanding Graduate of Zhejiang Province</li>
+        <li><span class="award-year">2025</span> National Scholarship for Undergraduates</li>
+        <li><span class="award-year">2024</span> Second Prize in the 16th National College Student Information Security Competition</li>
+        <li><span class="award-year">2024</span> Zhejiang Provincial Government Scholarship</li>
+      </ul>
+    </section>
+  </div>
 </div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/InsightVQA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**InsightVQA:High-Dimensional Emotion-Cognitive Visual Question Answering Benchmark**
-
-**Shiyu Wang**🧑‍💻, Ziyu Liu🧑‍💻, Chaoyi Yu, Yujie Yin, Zhongqian Mao, Jing Chen, Jiaqi Song, Yunshi Lan, Yan Wang📮 
-
-[[**Paper**](https://arxiv.org/pdf/2606.02171)] \| [[**Project Page**](https://akanthawang.github.io/InsightVQA/)]
-</div>
-</div>
-
-
-# 📖 Educations
-- *2025.09 - now*, Postgraduate in Data Science and Engineering, East China Normal University, Shanghai
-- *2021.09 - 2025.06*, Bachelor in Computer Science and Technology, Zhejiang Gongshang University, Hangzhou
-
-
-# 🎖️ Honors and Awards
-- *2025* Zhejiang Gongshang University Outstanding Thesis
-- *2025* Outstanding Graduate of Zhejiang Province
-- *2025* National Scholarship for Undergraduates
-- *2024* Second Prize in the 16th National College Student Information Security Competition
-- *2024* Zhejiang Provincial Government Scholarship
-
-
-<!-- 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
