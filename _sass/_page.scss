@@ -445,14 +445,17 @@
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 2em;
-  padding: 1.5em;
-  background: $lighter-gray;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
+  padding: 1.5em 0;
+  border-bottom: 1px solid $border-color;
   transition: $global-transition;
 
   &:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    background: rgba($info-color, 0.03);
+    margin-left: -1em;
+    margin-right: -1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: $border-radius;
   }
 
   .paper-box-image {
