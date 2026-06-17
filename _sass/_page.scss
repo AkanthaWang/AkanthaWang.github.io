@@ -514,38 +514,6 @@
         text-decoration: underline;
       }
     }
-
-    .paper-links {
-      margin-top: 0.8em;
-      display: flex;
-      gap: 0.8em;
-      flex-wrap: wrap;
-
-      .paper-link {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.4em;
-        padding: 0.4em 0.9em;
-        background: $lighter-gray;
-        color: $dark-gray;
-        border-radius: 4px;
-        font-size: 0.9em;
-        font-weight: normal;
-        text-decoration: none;
-        margin-right: 0;
-        transition: $global-transition;
-
-        &:hover {
-          background: $info-color;
-          color: #fff;
-          text-decoration: none;
-        }
-
-        i {
-          font-size: 0.95em;
-        }
-      }
-    }
   }
 
   @include breakpoint(max-width $medium) {

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# � About Me
+# 👤 About Me
 
 Hi👋, I'm Shiyu Wang, currently a postgraduate student majoring in Data Science and Engineering at East China Normal University, supervised by Prof. [Yan Wang](https://wangyanckxx.github.io/) (Deep Learning).
 
@@ -27,7 +27,7 @@ Hi👋, I'm Shiyu Wang, currently a postgraduate student majoring in Data Scienc
 
 <span class='anchor' id='news'></span>
 
-# � News
+# 🔥 News
 - *2024.08*: &nbsp;🎉🎉 One paper for 多元软混合样本驱动的图文对齐人脸伪造检测方法 is accepted by 《中国图象图形学报》.
 
 <span class='anchor' id='publications'></span>

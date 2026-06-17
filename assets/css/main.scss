@@ -54,6 +54,7 @@
         display: flex;
         width: 100%;
         order: 2;
+        align-items: center;
 
         img {
             max-width: 400px;
@@ -63,6 +64,9 @@
     }
 
     .paper-box-text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
         max-width: 100%;
         order: 1;
     }
@@ -76,7 +80,9 @@
         }
 
         .paper-box-text{
-            justify-content: left;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
