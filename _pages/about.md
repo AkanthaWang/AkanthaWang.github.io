@@ -23,10 +23,12 @@ My current research interests primarily focus on:
 - 🎭 Expression recognition and affective computing, embodied intelligence
 - 🔍 Deepfake Detection
 
+<span class='anchor' id='news'></span>
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 One paper for 多元软混合样本驱动的图文对齐人脸伪造检测方法 is accepted by 《中国图象图形学报》.
 
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications  (🧑‍💻 Equal contribution, 📮 Corresponding author)
 
