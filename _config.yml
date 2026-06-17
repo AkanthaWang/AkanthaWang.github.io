@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "AkanthaWang"
-description              : "postgraduate student @ ECNU. Previous CS undergrad @ ZJGSU."
+description              : "MS @ ECNU. BS @ ZJGSU-CS."
 repository               : "AkanthaWang/AkanthaWang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shiyu Wang"
   avatar           : "images/profile.png"
-  bio              : # "Undergraduate at ZJGSU"
-  location         : "Shanghai"
+  bio              : "Data Science & Engineering, ECNU"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -48,7 +48,7 @@ author:
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
   twitter          : 
