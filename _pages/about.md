@@ -36,7 +36,18 @@ My current research interests primarily focus on:
 
 **Shiyu Wang** , Caibo Feng , Chunxiao Liu📮 , Yisheng Jin 
 
-[**PDF**](http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig) \| [**Project Page**](https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection) 
+[[**Paper**](http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig) ]\| [[**Project Page**](https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection) ]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国图象图形学报</div><img src='images/InsightVQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**InsightVQA:High-Dimensional Emotion-Cognitive Visual Question Answering Benchmark**
+
+**Shiyu Wang**🧑‍💻, Ziyu Liu🧑‍💻, Chaoyi Yu, Yujie Yin, Zhongqian Mao, Jing Chen, Jiaqi Song, Yunshi Lan, Yan Wang📮 
+
+[**Paper**](https://arxiv.org/pdf/2606.02171) \| [**Project Page**](https://akanthawang.github.io/InsightVQA/) 
 </div>
 </div>
 
