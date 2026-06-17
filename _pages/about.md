@@ -36,7 +36,10 @@ My current research interests primarily focus on:
 
 **Shiyu Wang** , Caibo Feng , Chunxiao Liu📮 , Yisheng Jin 
 
-[**PDF**](http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig) \| [**Project Page**](https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection) 
+<div class="paper-links">
+  <a class="paper-link" href="http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+  <a class="paper-link" href="https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection"><i class="fab fa-github" aria-hidden="true"></i><span>Project</span></a>
+</div>
 </div>
 </div>
 

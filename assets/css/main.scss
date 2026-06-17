@@ -87,6 +87,42 @@
 
 }
 
+.paper-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
+
+.paper-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: #00369f !important;
+    font-weight: 600;
+    line-height: 1.2;
+    text-decoration: none !important;
+    transition: color 0.2s ease;
+
+    &:hover {
+        color: #002875 !important;
+        text-decoration: none !important;
+    }
+
+    i {
+        font-size: 0.95em;
+    }
+
+    span {
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s ease;
+    }
+
+    &:hover span {
+        border-bottom-color: currentColor;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
