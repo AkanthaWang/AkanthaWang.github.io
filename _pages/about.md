@@ -30,7 +30,9 @@ My current research interests primarily focus on:
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications  (🧑‍💻 Equal contribution, 📮 Corresponding author)
+# 📝 Publications  
+
+(🧑‍💻 Equal contribution, 📮 Corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国图象图形学报</div><img src='images/MSB_CLIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,6 +43,21 @@ My current research interests primarily focus on:
 <div class="paper-links">
   <a class="paper-link" href="http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
   <a class="paper-link" href="https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection"><i class="fab fa-github" aria-hidden="true"></i><span>Project</span></a>
+</div>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/InsightVQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**InsightVQA:High-Dimensional Emotion-Cognitive Visual
+Question Answering Benchmark**
+
+**Shiyu Wang**🧑‍💻, Ziyu Liu🧑‍💻, Chaoyi Yu, Yujie Yin, Zhongqian Mao, Jing Chen, Jiaqi Song, Yunshi Lan, Yan Wang📮
+
+<div class="paper-links">
+  <a class="paper-link" href="https://arxiv.org/abs/2606.02171"><i class="fas fa-file-alt" aria-hidden="true"></i> <span>Paper</span></a>
+  <a class="paper-link" href="https://akanthawang.github.io/InsightVQA/"><i class="fab fa-github" aria-hidden="true"></i> <span>Project</span></a>
 </div>
 </div>
 </div>
