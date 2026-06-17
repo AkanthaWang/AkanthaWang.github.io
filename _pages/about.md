@@ -36,33 +36,33 @@ My current research interests primarily focus on:
 
 **Shiyu Wang** , Caibo Feng , Chunxiao Liu📮 , Yisheng Jin 
 
-[[**Paper**](http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig) ]\| [[**Project Page**](https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection) ]
+[[**Paper**](http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig)]\| [[**Project Page**](https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection)]
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国图象图形学报</div><img src='images/InsightVQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/InsightVQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **InsightVQA:High-Dimensional Emotion-Cognitive Visual Question Answering Benchmark**
 
 **Shiyu Wang**🧑‍💻, Ziyu Liu🧑‍💻, Chaoyi Yu, Yujie Yin, Zhongqian Mao, Jing Chen, Jiaqi Song, Yunshi Lan, Yan Wang📮 
 
-[**Paper**](https://arxiv.org/pdf/2606.02171) \| [**Project Page**](https://akanthawang.github.io/InsightVQA/) 
+[[**Paper**](https://arxiv.org/pdf/2606.02171)] \| [[**Project Page**](https://akanthawang.github.io/InsightVQA/)]
 </div>
 </div>
 
 
 # 📖 Educations
-- *2024.09 - now*, Postgraduate in Data Science and Engineering, East China Normal University, Shanghai
-- *2020.09 - 2024.06*, Bachelor in Computer Science and Technology, Zhejiang Gongshang University, Hangzhou
+- *2025.09 - now*, Postgraduate in Data Science and Engineering, East China Normal University, Shanghai
+- *2021.09 - 2025.06*, Bachelor in Computer Science and Technology, Zhejiang Gongshang University, Hangzhou
 
 
 # 🎖️ Honors and Awards
 - *2025* Zhejiang Gongshang University Outstanding Thesis
 - *2025* Outstanding Graduate of Zhejiang Province
-- *2024* National Scholarship for Undergraduates
+- *2025* National Scholarship for Undergraduates
 - *2024* Second Prize in the 16th National College Student Information Security Competition
-- *2023* Zhejiang Provincial Government Scholarship
+- *2024* Zhejiang Provincial Government Scholarship
 
 
 <!-- 
