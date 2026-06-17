@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# � About Me
+
 Hi👋, I'm Shiyu Wang, currently a postgraduate student majoring in Data Science and Engineering at East China Normal University, supervised by Prof. [Yan Wang](https://wangyanckxx.github.io/) (Deep Learning).
 
-My current research interests primarily focus on:
+**Research Interests:**
 - 🎭 Expression recognition and affective computing, embodied intelligence
 - 🔍 Deepfake Detection
 
 <span class='anchor' id='news'></span>
 
-# 🔥 News
+# � News
 - *2024.08*: &nbsp;🎉🎉 One paper for 多元软混合样本驱动的图文对齐人脸伪造检测方法 is accepted by 《中国图象图形学报》.
 
 <span class='anchor' id='publications'></span>
@@ -36,13 +38,16 @@ My current research interests primarily focus on:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国图象图形学报</div><img src='images/MSB_CLIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 **多元软混合样本驱动的图文对齐人脸伪造检测方法**
 
 **Shiyu Wang** , Caibo Feng , Chunxiao Liu📮 , Yisheng Jin 
 
+中国图象图形学报
+
 <div class="paper-links">
-  <a class="paper-link" href="http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
-  <a class="paper-link" href="https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection"><i class="fab fa-github" aria-hidden="true"></i><span>Project</span></a>
+  <a class="paper-link" href="http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig"><i class="fas fa-file-alt" aria-hidden="true"></i> <span>Paper</span></a>
+  <a class="paper-link" href="https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection"><i class="fab fa-github" aria-hidden="true"></i> <span>Project</span></a>
 </div>
 </div>
 </div>
@@ -50,10 +55,12 @@ My current research interests primarily focus on:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/InsightVQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**InsightVQA:High-Dimensional Emotion-Cognitive Visual
-Question Answering Benchmark**
+
+**InsightVQA:High-Dimensional Emotion-Cognitive Visual Question Answering Benchmark**
 
 **Shiyu Wang**🧑‍💻, Ziyu Liu🧑‍💻, Chaoyi Yu, Yujie Yin, Zhongqian Mao, Jing Chen, Jiaqi Song, Yunshi Lan, Yan Wang📮
+
+Under Review
 
 <div class="paper-links">
   <a class="paper-link" href="https://arxiv.org/abs/2606.02171"><i class="fas fa-file-alt" aria-hidden="true"></i> <span>Paper</span></a>
