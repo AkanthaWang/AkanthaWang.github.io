@@ -20,7 +20,6 @@ redirect_from:
 <div class="home-showcase">
   <section class="intro-panel">
     <div class="intro-copy">
-      <p class="intro-kicker">Data Science · Multimodal Learning · Affective Computing</p>
       <h1 class="intro-title">Shiyu Wang</h1>
       <p class="intro-description">I am a postgraduate student in Data Science and Engineering at East China Normal University, supervised by Prof. <a href="https://wangyanckxx.github.io/">Yan Wang</a>. My work centers on building reliable multimodal systems for emotion understanding and deepfake detection.</p>
       <div class="intro-actions">
@@ -45,15 +44,13 @@ redirect_from:
     <h1 id="news">🔥 News</h1>
     <ul class="timeline-list">
       <li>
-        <span class="timeline-date">2024.08</span>
-        <div class="timeline-body">🎉 One paper for <strong>多元软混合样本驱动的图文对齐人脸伪造检测方法</strong> was accepted by <strong>《中国图象图形学报》</strong>.</div>
+        <span class="timeline-date">2024.08</span> <div class="timeline-body">🎉 One paper for <strong>多元软混合样本驱动的图文对齐人脸伪造检测方法</strong> was accepted by <strong>《中国图象图形学报》</strong>.</div>
       </li>
     </ul>
   </section>
 
   <section class="showcase-section">
     <h1 id="publications">📝 Publications</h1>
-    <p class="section-intro">Selected work in deepfake detection, affective computing, and multimodal reasoning.</p>
     <p class="section-note">🧑‍💻 Equal contribution, 📮 Corresponding author</p>
 
     <div class="paper-box">
