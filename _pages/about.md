@@ -64,8 +64,8 @@ Question Answering Benchmark**
 
 
 # 📖 Educations
-- *2024.09 - now*, Postgraduate in Data Science and Engineering, East China Normal University, Shanghai
-- *2020.09 - 2024.06*, Bachelor in Computer Science and Technology, Zhejiang Gongshang University, Hangzhou
+- *2025.09 - now*, Postgraduate in Data Science and Engineering, East China Normal University, Shanghai
+- *2021.09 - 2025.06*, Bachelor in Computer Science and Technology, Zhejiang Gongshang University, Hangzhou
 
 
 # 🎖️ Honors and Awards
