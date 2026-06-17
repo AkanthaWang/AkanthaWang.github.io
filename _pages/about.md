@@ -68,8 +68,14 @@ redirect_from:
         <h2 class="paper-title">多元软混合样本驱动的图文对齐人脸伪造检测方法</h2>
         <p class="paper-authors"><strong>Shiyu Wang</strong>, Caibo Feng, Chunxiao Liu📮, Yisheng Jin</p>
         <div class="paper-links">
-          <a class="paper-link" href="http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig">Paper</a>
-          <a class="paper-link" href="https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection">Project Page</a>
+          <a class="paper-link paper-link-primary" href="http://cjig.ijournals.cn/jig/ch/reader/download_new_edit_content.aspx?edit_id=20240813160335001&file_no=202405050000002&journal_id=jig">
+            <span class="paper-link-label">Paper</span>
+            <span class="paper-link-meta">Read publication</span>
+          </a>
+          <a class="paper-link" href="https://github.com/AkanthaWang/MultiSoftBlend-DeepFake-Detection">
+            <span class="paper-link-label">Project Page</span>
+            <span class="paper-link-meta">Code and details</span>
+          </a>
         </div>
       </div>
     </div>
@@ -86,8 +92,14 @@ redirect_from:
         <h2 class="paper-title">InsightVQA: High-Dimensional Emotion-Cognitive Visual Question Answering Benchmark</h2>
         <p class="paper-authors"><strong>Shiyu Wang</strong>🧑‍💻, Ziyu Liu🧑‍💻, Chaoyi Yu, Yujie Yin, Zhongqian Mao, Jing Chen, Jiaqi Song, Yunshi Lan, Yan Wang📮</p>
         <div class="paper-links">
-          <a class="paper-link" href="https://arxiv.org/pdf/2606.02171">Paper</a>
-          <a class="paper-link" href="https://akanthawang.github.io/InsightVQA/">Project Page</a>
+          <a class="paper-link paper-link-primary" href="https://arxiv.org/pdf/2606.02171">
+            <span class="paper-link-label">Paper</span>
+            <span class="paper-link-meta">View arXiv PDF</span>
+          </a>
+          <a class="paper-link" href="https://akanthawang.github.io/InsightVQA/">
+            <span class="paper-link-label">Project Page</span>
+            <span class="paper-link-meta">Benchmark overview</span>
+          </a>
         </div>
       </div>
     </div>

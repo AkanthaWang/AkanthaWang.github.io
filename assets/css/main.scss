@@ -311,8 +311,8 @@ h1:before, .anchor:before {
 }
 
 .paper-box-image {
-    flex: 0 0 320px;
-    min-width: 280px;
+    flex: 0 0 360px;
+    min-width: 320px;
     display: flex;
 }
 
@@ -322,13 +322,14 @@ h1:before, .anchor:before {
     overflow: hidden;
     border-radius: 18px;
     background: #e1e8f3;
-    box-shadow: 0 14px 28px rgba(34, 75, 141, 0.16);
+    box-shadow: 0 24px 44px rgba(18, 39, 70, 0.22), 0 10px 22px rgba(34, 75, 141, 0.14);
+    transform: translateY(4px);
 
     img {
         display: block;
         width: 100%;
         height: 100%;
-        min-height: 210px;
+        min-height: 240px;
         object-fit: cover;
     }
 }
@@ -369,25 +370,53 @@ h1:before, .anchor:before {
 }
 
 .paper-link {
-    display: inline-flex;
-    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     justify-content: center;
-    min-height: 42px;
-    padding: 0.65rem 1rem;
-    border-radius: 999px;
+    min-width: 168px;
+    min-height: 64px;
+    padding: 0.8rem 1rem;
+    border-radius: 18px;
     border: 1px solid rgba($info-color, 0.12);
-    background: rgba($info-color, 0.06);
-    color: $info-color;
-    font-weight: 700;
+    background: linear-gradient(180deg, rgba($info-color, 0.05) 0%, rgba($info-color, 0.09) 100%);
+    color: var(--showcase-ink);
     text-decoration: none !important;
-    transition: background 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+    box-shadow: 0 10px 24px rgba(23, 49, 83, 0.07);
+    transition: background 0.2s ease, transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
 
     &:hover {
-        background: rgba($info-color, 0.12);
+        background: linear-gradient(180deg, rgba($info-color, 0.09) 0%, rgba($info-color, 0.15) 100%);
         border-color: rgba($info-color, 0.2);
-        transform: translateY(-1px);
+        box-shadow: 0 14px 28px rgba(23, 49, 83, 0.12);
+        transform: translateY(-2px);
         text-decoration: none !important;
     }
+}
+
+.paper-link-primary {
+    color: #fff;
+    background: linear-gradient(135deg, #173153 0%, #224b8d 100%);
+    box-shadow: 0 14px 30px rgba(34, 75, 141, 0.22);
+
+    &:hover {
+        background: linear-gradient(135deg, #1a3963 0%, #2a5aa9 100%);
+    }
+}
+
+.paper-link-label {
+    display: block;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.2;
+}
+
+.paper-link-meta {
+    display: block;
+    margin-top: 0.25rem;
+    font-size: 0.82rem;
+    line-height: 1.4;
+    opacity: 0.82;
 }
 
 .badge {
@@ -430,6 +459,11 @@ h1:before, .anchor:before {
     .paper-box {
         flex-direction: column;
         padding: 1rem;
+    }
+
+    .paper-link {
+        width: 100%;
+        min-width: 0;
     }
 
     .detail-grid {
