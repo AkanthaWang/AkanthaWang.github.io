@@ -36,8 +36,10 @@ Hi👋, I am currently a Master’s student in Data Science and Engineering at E
 
 (🧑‍💻 Equal contribution, 📮 Corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国图象图形学报</div><img src='images/MSB_CLIP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div>
+  <div class="badge">中国图象图形学报</div>
+  <img src='images/MSB_CLIP.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
 
 **多元软混合样本驱动的图文对齐人脸伪造检测方法**
 
@@ -70,9 +72,9 @@ Under Review
 </div>
 
 
-# 📖 Educations
-- *2025.09 - now*, Postgraduate in Data Science and Engineering, East China Normal University, Shanghai
-- *2021.09 - 2025.06*, Bachelor in Computer Science and Technology, Zhejiang Gongshang University, Hangzhou
+# 🎓 Educations
+- *2025.09 - now*, M.S. in Data Science and Engineering, East China Normal University.
+- *2021.09 - 2025.06*, B.S. in Computer Science and Technology, Zhejiang Gongshang University.
 
 
 # 🎖️ Honors and Awards
@@ -82,11 +84,3 @@ Under Review
 - *2023* Second Prize in the 16th National College Student Information Security Competition
 - *2023* Zhejiang Provincial Government Scholarship
 
-
-<!-- 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
