@@ -19,7 +19,7 @@ redirect_from:
 
 # 👤 About Me
 
-Hi👋, I'm Shiyu Wang, currently a postgraduate student majoring in Data Science and Engineering at East China Normal University, supervised by Prof. [Yan Wang](https://wangyanckxx.github.io/) (Deep Learning).
+Hi👋, I am currently a Master’s student in Data Science and Engineering at East China Normal University (ECNU), Shanghai, a member of the Embodied Affective Intelligence Lab, advised by Prof. [Yan Wang](https://wangyanckxx.github.io/). My current research focuses on Large Language Models (LLMs), Multimodal Large Language Models (MLLMs), Expression recognition and affective computing, embodied intelligence.
 
 **Research Interests:**
 - 🎭 Expression recognition and affective computing, embodied intelligence
@@ -79,7 +79,7 @@ Under Review
 - *2025* Zhejiang Gongshang University Outstanding Thesis
 - *2025* Outstanding Graduate of Zhejiang Province
 - *2024* National Scholarship for Undergraduates
-- *2024* Second Prize in the 16th National College Student Information Security Competition
+- *2023* Second Prize in the 16th National College Student Information Security Competition
 - *2023* Zhejiang Provincial Government Scholarship
 
 
