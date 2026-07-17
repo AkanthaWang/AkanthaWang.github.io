@@ -58,14 +58,14 @@ Hi👋, I am currently a Master’s student in Data Science and Engineering at E
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026</div><img src='images/InsightVQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026</div><img src='images/Your_Well-being_Matters.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Your Well-being Matters: A \Pfivetext{} Framework with Unified Triadic Fusion for Multimodal Depression Detection**
 
 Chaoyi Yu, **Shiyu Wang**, Zhongqian Mao, Yan Wang📮
 
-ACMMM 2026
+🎉 The Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 2026. (CCF-A)
 
 <!-- <div class="paper-links">
   <a class="paper-link" href="https://arxiv.org/abs/2606.02171"><i class="fas fa-file-alt" aria-hidden="true"></i> <span>Paper</span></a>
