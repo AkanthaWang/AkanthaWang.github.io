@@ -28,7 +28,8 @@ Hi👋, I am currently a Master’s student in Data Science and Engineering at E
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 One paper for 多元软混合样本驱动的图文对齐人脸伪造检测方法 is accepted by 《中国图象图形学报》.
+- *2026*: &nbsp;🎉🎉 One paper for Your Well-being Matters: A \Pfivetext{} Framework with Unified Triadic Fusion for Multimodal Depression Detection is accepted by ACM MM.
+- *2024*: &nbsp;🎉🎉 One paper for 多元软混合样本驱动的图文对齐人脸伪造检测方法 is accepted by 《中国图象图形学报》.
 
 <span class='anchor' id='publications'></span>
 
@@ -67,10 +68,9 @@ Chaoyi Yu, **Shiyu Wang**, Zhongqian Mao, Yan Wang📮
 
 🎉 The Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 2026. (CCF-A)
 
-<!-- <div class="paper-links">
-  <a class="paper-link" href="https://arxiv.org/abs/2606.02171"><i class="fas fa-file-alt" aria-hidden="true"></i> <span>Paper</span></a>
-  <a class="paper-link" href="https://akanthawang.github.io/InsightVQA/"><i class="fab fa-github" aria-hidden="true"></i> <span>Project</span></a>
-</div> -->
+<div class="paper-links">
+  <a class="paper-link" href="https://dl.acm.org/doi/10.1145/3767308.3836617"><i class="fas fa-file-alt" aria-hidden="true"></i> <span>Paper</span></a>
+</div>
 </div>
 </div>
 
