@@ -61,6 +61,24 @@
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
+
+        .paper-figures {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .paper-figure-row {
+            display: flex;
+            gap: 0.5em;
+            margin-top: 0.5em;
+
+            img {
+                flex: 1 1 0;
+                min-width: 0;
+                width: 100%;
+            }
+        }
     }
 
     .paper-box-text{

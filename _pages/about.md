@@ -58,7 +58,7 @@ Hi👋, I am currently a Master’s student in Data Science and Engineering at E
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026</div><img src='images/Your_Well-being_Matters.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-figures"><div class="badge">ACMMM 2026</div><img src='images/Your_Well-being_Matters.png' alt="Your Well-being Matters framework" width="100%"><div class="paper-figure-row"><img src='images/Your-Well-being-Matters-young-1st.png' alt="1st Place certificate, MPDD-Young track, ACM MM 2026 Grand Challenge" width="100%"><img src='images/Your-Well-being-Matters-elderly-1st.png' alt="1st Place certificate, MPDD-Elderly track, ACM MM 2026 Grand Challenge" width="100%"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Your Well-being Matters: A \Pfivetext{} Framework with Unified Triadic Fusion for Multimodal Depression Detection**
